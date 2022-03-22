@@ -3,7 +3,7 @@ Computer Networks project
 
 ### Installation
 
-Raylib must be installed first in order for the graphical interface to work. The steps for using the app are the following:
+Raylib must be installed first in order for the graphical interface to work. The steps for using the app after installing the library are the following:
 
 1. Build and run the server in the Networking directory:
  ```sh
