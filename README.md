@@ -1,28 +1,23 @@
 # The-Ultimate-Chess-Battle
 Computer Networks project
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+### Installation
+
+Raylib must be installed first in order for the graphical interface to work. The steps for using the app are the following:
+
+1. Build and run the server in the Networking directory:
+   ```sh
+  gcc -o server server.c
+   ```
+   
+   ```sh
+ ./server
+   ```
+2. Build and run the client side of the application in the App directory;
+   ```sh
+  cc -o main main.c start.c login.c logo.c menu.c lobby.c options.c game.c wwin.c bwin.c exit.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+   ```
+   
+    ```sh
+  ./main 127.0.0.1 1818
+   ```
