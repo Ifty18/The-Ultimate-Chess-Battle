@@ -20,3 +20,4 @@ Raylib must be installed first in order for the graphical interface to work. The
  ```sh
  ./main 127.0.0.1 1818
  ```
+It is worth mentioning that the first argument (in this case 127.0.0.1) can be replaced with the user's IP address, whereas the second argument must be 1818 which is the port where the server can be accessed.
