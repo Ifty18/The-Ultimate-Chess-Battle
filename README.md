@@ -7,7 +7,6 @@ A Computer Networks project written in <a href="https://en.wikipedia.org/wiki/C_
 |![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/menu%20screen.png)|![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/lobby%20sceen.png)|
 |---|---|
 |![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/in%20game%201.png)|![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/in%20game%202.png)|
-|---|---|
 |![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/exit.png)|![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/white%20won.png)|
 
 ### Installation
@@ -34,4 +33,4 @@ cc -o main main.c start.c login.c logo.c menu.c lobby.c options.c game.c wwin.c 
 ./main 127.0.0.1 1818
 ```
 
-It is worth mentioning that the first argument (in this case 127.0.0.1) can be replaced with the user's IP address, whereas the second argument must alwways be 1818 which is the port where the server can be accessed.
+It is worth mentioning that the first argument (in this case 127.0.0.1) can be replaced with the user's IP address, whereas the second argument must always be 1818 which is the port where the server can be accessed.
