@@ -5,7 +5,9 @@ A Computer Networks project written in <a href="https://en.wikipedia.org/wiki/C_
 ### In-game pictures:
 
 |![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/menu%20screen.png)|![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/lobby%20sceen.png)|
+|---|---|
 |![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/in%20game%201.png)|![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/in%20game%202.png)|
+|---|---|
 |![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/exit.png)|![](https://github.com/Ifty18/The-Ultimate-Chess-Battle/blob/main/In-Game%20Pictures/white%20won.png)|
 
 ### Installation
